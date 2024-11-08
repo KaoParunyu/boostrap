@@ -1,0 +1,20 @@
+.navbar {
+    background-color: rgb(27, 73, 142) !important;
+}
+
+.navbar-toggler{
+    display: flex;
+    flex-direction: row;
+    width: min-content;
+    position: relative;
+    z-index: 1080;
+}
+
+.navbar-toggler-icon{
+    display: flex;
+    flex-direction: column;
+
+}
+
+
+
